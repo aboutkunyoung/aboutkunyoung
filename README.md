@@ -22,13 +22,17 @@ http://dreambit.ai/
 -Republic of Korea Army(22~24)
 Infra Engineer
 
+
+<!--
 ### Colleuge Project
 - JDBC Project - I contributed Graph part. 
 - Alogorithm Prjoect
 
+
 ### Analysis of Public Open Data(21) 
 - Seoul Metro Hourly usage Statistics Report  (21)
   [Click](https://github.com/ceroopark/Open-Data-Project/tree/main/subway "Git")
+
 
 ### Others
 - interview 
@@ -39,7 +43,7 @@ Infra Engineer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceroopark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+-->
 
 
 <!--
