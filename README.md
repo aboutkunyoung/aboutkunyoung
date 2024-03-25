@@ -1,26 +1,39 @@
-## Kun Young Park
+## 박건영
 
-### Studying Data Science
+### 클라우드 아키텍처가 되고싶습니다.
 
-The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+### 관심분야
+  
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+ <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
 
-## My history
 
-### Sejong University 
-- GPA 3.81 / CUM LAUDE
-- Department of English Linguistics and Literature
-- Department of Software Engineering
-- Technical Assistant of Programming(20~21)
-  [Click](https://blog.naver.com/ceroopark/222414688135 "네이버 블로그")
-- Research Assistant of Intelligent Media Labatory(20)
  
-### Job Career
--Dream Bit (21)
-Data Engineer
-http://dreambit.ai/
+## 프로필
 
--Republic of Korea Army(22~24)
-Infra Engineer
+### 세종대학교
+- 영어영문학과 & 소프트웨어공학과 (2018.03 - 2022.02)
+- 세종대학교 소프트웨어융합대학 연구/기술 조교(20~21)
+   • SW중심대학 기초코딩 수업 진행(TA, 21~22)
+   • 세종대학교 글로벌미디어 연구실(RA, 21)
+
+### 경력
+-주식회사 드림비트 (2021.03 - 2022.01)
+   “NIA 인공지능 학습용 데이터 구축 사업” 참여
+    • 음성 전사 규칙 가이드라인 제작 및 배포
+    • 학습용 데이터 메타데이터 제작
+    • TTA 품질 검수를 위한 VAD Algorithm 자체 프로그램 개발
+
+-대한민국 육군 (2022.03 - 2024.06)
+   "네트워크 소대장 & 체계소대장"
+    • 육군 인프라 (네트워크 & 서버)
+    • AI/SW 시범부대 동아리 운영(교육장 인프라 관리)
+
+
+
 
 
 <!--
