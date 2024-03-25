@@ -1,23 +1,20 @@
-## 박건영
+## 박건영
 
 ### 클라우드 아키텍처가 되고싶습니다.
 
 ### 관심분야
-  
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
 
-
- 
 ## 프로필
 
 ### 세종대학교
 - 영어영문학과 & 소프트웨어공학과 (2018.03 - 2022.02)
-- 세종대학교 소프트웨어융합대학 연구/기술 조교(20~21)
-   • SW중심대학 기초코딩 수업 진행(TA, 21~22)
+- 세종대학교 소프트웨어융합대학 연구/기술 조교(20~21)<br>
+   • SW중심대학 기초코딩 수업 진행(TA, 21~22)<br>
    • 세종대학교 글로벌미디어 연구실(RA, 21)
 
 ### 경력
