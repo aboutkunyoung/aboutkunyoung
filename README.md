@@ -1,6 +1,6 @@
-<center> <p style="font-size:30px; font-family: serif;">Park Kun Young </p></center>
+ ## Park Kun Young
 
-<p style="font-size:30px; font-family: serif;">🧑🏻‍💻 AboutMe </p>
+### 🧑🏻‍💻 AboutMe
 
 ---
 
@@ -48,7 +48,8 @@
 ---
 
 <br>
-<p style="font-size:30px; font-family: serif;">Education</p>
+
+### Education
 
 ---
 
@@ -59,7 +60,9 @@
 ---
 
 <br>
-<p style="font-size:30px; font-family: serif;">Skills</p>
+
+### Skills
+
 LANGUAGE : JAVA, Python <br>
 INFRA : DOCKER, Jenkins, NGINX, AWS EC2, AWS S3, AWS RDS<br>
 BACKEND : SPRING<br>
@@ -69,7 +72,7 @@ Tools : git github gitlab notion<br>
 ---
 
 <br>
-<p style="font-size:30px; font-family: serif;">projects</p>
+### Projects
 
 | 프로젝트명                                                   | 참여인원     | 기간            | 소개         | 역할            |
 | ------------------------------------------------------------ | ------------ | --------------- | ------------ | --------------- |
@@ -84,7 +87,7 @@ Tools : git github gitlab notion<br>
 
 | 자격증명     | 단체         | 취득일자     |
 | ------------ | ------------ | ------------ |
-| AWS SAA      | Row 1, Col 2 | Row 1, Col 3 |
-| 정보처리기사 | Row 2, Col 2 | Row 2, Col 3 |
-| OPIC         | Row 3, Col 2 | Row 3, Col 3 |
-| TOEIC        | Row 4, Col 2 | Row 4, Col 3 |
+| AWS SAA      |  | 취득예정 |
+| 정보처리기사 |  | 취득예정 |
+| OPIC         |  | 취득예정 |
+| TOEIC        |  |  |
