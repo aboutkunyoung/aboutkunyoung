@@ -11,8 +11,6 @@
 
 ---
 
----
-
 ## 🏃 Career
 
 ### 🇰🇷 대한민국 육군 2022.03 - 2024.06
@@ -53,12 +51,9 @@ SW중심대학 기초코딩 수업 실습 진행 TA<br>
 
 ---
 
-## Algorithm Skills
+## Problem Solving
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ceroopark)](https://solved.ac/ceroopark)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aboutkunyoung&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboutkunyoung)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -96,5 +91,12 @@ Certificate
 | 정보처리기사 | 취득예정 |
 |     OPIC     | 취득예정 |
 |    TOEIC     |          |
+
+--- 
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aboutkunyoung&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboutkunyoung)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
