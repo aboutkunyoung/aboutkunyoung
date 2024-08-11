@@ -4,7 +4,7 @@
 
 ---
 
-조직이 어떠한 일을 수행함에 있어 그 기초의 초석을 다지고 지원하는 업무에 매료되어 인프라 및 클라우드 기술에 대한 관심이 많아졌습니다. 
+조직이 어떠한 일을 수행함에 있어 그 기초의 초석을 다지고 지원하는 업무에 매료되어 인프라 및 클라우드 기술에 대한 관심이 많아졌습니다. <br>
 클라우드, 인프라 엔지니어를 지망며 현재는 관련 기술을 습득하고 있습니다.
 
 <br>
@@ -15,33 +15,30 @@
 
 ---
 
-<p style="font-size:20px; font-family: serif; font-weight: 2000">🇰🇷 대한민국 육군 2022.03 - 2024.06</p>
+🇰🇷 대한민국 육군 2022.03 - 2024.06
 
-<p style="font-size:14px; font-family: serif; text-indent: 20px;">네트워크소대장 & 체계운용소대장<br></p>
-
-<p style="font-size:14px; font-family: serif; text-indent: 30px;"> - 군단 인프라(네트워크 & 서버) 운용 및 관리<br></p>
-
-<p style="font-size:14px; font-family: serif; text-indent: 30px;"> - AI/SW 시범부대 동아리 운영 및 교육장 인프라 구축<br></p>
+네트워크소대장 & 체계운용소대장<br>
+  - 군단 인프라(네트워크 & 서버) 운용 및 관리<br></p>
+  - AI/SW 시범부대 동아리 운영 및 교육장 인프라 구축<br>
 
 <br>
 
-<p style="font-size:20px; font-family: serif; font-weight: 2000">주식회사 드림비트 2021.03 - 2022.01</p>
+주식회사 드림비트 2021.03 - 2022.01
 
-<p style="font-size:14px; font-family: serif; text-indent: 30px;">NIA 인공지능 학습용 데이터 구축 사업 참여<br></p>
+-- NIA 인공지능 학습용 데이터 구축 사업 참여<br>
 
-<p style="font-size:14px; font-family: serif; text-indent: 30px;"> TTA 품질 검수를 위한 음성 정제 프로그램 개발<br></p>
+-- TTA 품질 검수를 위한 음성 정제 프로그램 개발<br></p>
 
-<p style="font-size:14px; font-family: serif; text-indent: 30px;"> 학습용 데이터 메타데이터 제작 및 구축<br></p>
+-- 학습용 데이터 메타데이터 제작 및 구축<br></p>
 
-<p style="font-size:14px; font-family: serif; text-indent: 30px;">외국인 발화자 음성 전사 규칙 가이드라인 제작 및 배포<br></p>
+-- 외국인 발화자 음성 전사 규칙 가이드라인 제작 및 배포<br></p>
 
 <br>
 
-<p style="font-size:20px; font-family: serif; font-weight: 2000">세종대학교 글로벌 미디어 연구실 2020.07 - 2021.06</p>
+세종대학교 글로벌 미디어 연구실 2020.07 - 2021.06
 
-<p style="font-size:14px; font-family: serif; text-indent: 20px;">SW중심대학 기초코딩 수업 실습 진행 TA<br></p>
-
-<p style="font-size:14px; font-family: serif; text-indent: 30px;"> 공공데이터 플랫폼 구축 과제 참여 RA<br></p>
+-- SW중심대학 기초코딩 수업 실습 진행 TA<br>
+공공데이터 플랫폼 구축 과제 참여 RA<br>
 
 <br>
 
