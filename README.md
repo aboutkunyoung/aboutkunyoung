@@ -1,16 +1,17 @@
 <div align="center">
 
 ## Park Kun Young
+ 
+![36732c8aaa04a749ad872e7b21948b64](https://github.com/user-attachments/assets/324bf041-5c89-4685-9184-6a626b57ee0d)
+
 
 
 ### 🧑🏻‍💻 AboutMe
 
----
 
 조직이 어떠한 일을 수행함에 있어 그 기초의 초석을 다지고 지원하는 업무에 매료되어 인프라 및 클라우드 기술에 대한 관심이 많아졌습니다.<br>
 클라우드, 인프라 엔지니어를 지망며 현재는 관련 기술을 습득하고 있습니다.
 
----
 
 ## 🏃 Career
 
@@ -56,8 +57,6 @@ SW중심대학 기초코딩 수업 실습 진행 TA<br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ceroopark)](https://solved.ac/ceroopark)
 
----
-
 <br>
 
 ## 🎯 Skills
@@ -66,7 +65,7 @@ LANGUAGE : <img src="https://img.shields.io/badge/java-007396?style=for-the-badg
  <br>
 INFRA : <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><br>
 BACKEND : <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"> <br>
-Tools : <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"><br>
+Tools : <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"><br>
 <br>
 
 ---
@@ -77,15 +76,15 @@ Tools : <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&lo
 
 |                          프로젝트명                          |   참여인원   |      기간       |     소개     |      역할       |
 | :----------------------------------------------------------: | :----------: | :-------------: | :----------: | :-------------: |
-|         NIA 외국인 발화 한국어 데이터 구축 사업(21)          | 6개 컨소시엄 | 2021.03~2021.12 |   [link](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=505)       | 데이터 엔지니어 |
+|         NIA 외국인 발화 한국어 데이터 구축 사업(21)          | 6개 컨소시엄 | 2021.03~2021.12 |   [링크](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=505)       | 데이터 엔지니어 |
 | 🏆 YOLOv5 모델을 이용한 군 위병소 출입관리체계 프로그램 구현 |     5명      |     2023.07     |              |    BE/INFRA     |
-|                   🏆 세종 피칭 멘토링 데이                   | 1명 |  Row 3, Col 3   | Row 3, Col 4 |  Row 3, Col 5   |
+|                   🏆 세종 피칭 멘토링 데이                   | 1명 |     |  |     |
 
 <br>
 
 ---
 
-Certificate
+Certificate - 올해 취득 목표
 
 |   자격증명   | 취득일자 |
 | :----------: | :------: |
