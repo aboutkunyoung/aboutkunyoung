@@ -2,6 +2,11 @@
 
 ## Park Kun Young
 
+<p align="center">
+<img src="https://github.com/aboutkunyoung/aboutkunyoung/issues/1#issue-2463402154">
+</p>
+
+
 ### 🧑🏻‍💻 AboutMe
 
 ---
