@@ -2,8 +2,9 @@
 
 ## Park Kun Young
 
-<p align="center">
-<img src="https://github.com/aboutkunyoung/aboutkunyoung/issues/1#issue-2463402154">
+
+
+<p align="center">![dd16fcb13a206a7dcf5b3f83b0f41588](https://github.com/user-attachments/assets/ef8ea923-c3e2-4b5e-b1dd-b6759b8d2f3c)
 </p>
 
 
