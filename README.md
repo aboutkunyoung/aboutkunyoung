@@ -29,7 +29,7 @@ AI/SW 시범부대 동아리 운영 및 교육장 인프라 구축<br>
 
 NIA 인공지능 학습용 데이터 구축 사업 참여<br>
 
-TTA 품질 검수를 위한 음성 정제 프로그램 개발<br>
+TTA 음성데이터 품질 검수를 위한 음성 정제 프로그램 개발<br>
 
 학습용 데이터 메타데이터 제작 및 구축<br>
 
@@ -39,7 +39,7 @@ TTA 품질 검수를 위한 음성 정제 프로그램 개발<br>
 
 ### 세종대학교 글로벌 미디어 연구실 2020.07 - 2021.06
 
-SW중심대학 기초코딩 수업 실습 진행 TA<br>
+SW중심대학 기초코딩 TA TA<br>
 
 공공데이터 플랫폼 구축 과제 참여 RA<br>
 
@@ -61,11 +61,11 @@ SW중심대학 기초코딩 수업 실습 진행 TA<br>
 
 ## 🎯 Skills
 
-LANGUAGE : <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
  <br>
-INFRA : <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><br>
-BACKEND : <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"> <br>
-Tools : <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"><br>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"><br>
 <br>
 
 ---
@@ -88,10 +88,10 @@ Certificate - 올해 취득 목표
 
 |   자격증명   | 취득일자 |
 | :----------: | :------: |
-|   AWS SAA    |  |
-| 정보처리기사 |  |
-|     OPIC     |  |
-|    TOEIC     |          |
+|   AWS SAA    | 이거 올해 안에 따구.... SSAFY 그만둬야지... |
+| 정보처리기사 | 실기... 봐야지... |
+|     OPIC     | 따야지... 9월 중 으로 |
+|    TOEIC     |   880,,,,,, 공부해야지....|
 
 --- 
 
