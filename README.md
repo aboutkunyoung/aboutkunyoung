@@ -45,13 +45,13 @@ SW중심대학 기초코딩 수업 실습 진행 TA<br>
 
 ### 세종대학교 2018.03 - 2022.02
 
-영어영문학과 & 소프트웨어공학과 우등졸업
+영어영문학과 & 소프트웨어공학과 우등졸업
 
 <br>
 
 ---
 
-## Problem Solving
+## Problem Solving
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ceroopark)](https://solved.ac/ceroopark)
 
