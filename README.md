@@ -1,8 +1,8 @@
 <div align="center">
 
-## Park Kun Young
+## Hi there, I'm Park.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faboutkunyoung%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faboutkunyoung%2Fhit-counter&count_bg=%23ADD8E6&title_bg=%23C1C1FF&icon=&icon_color=%23ADD8E6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)              
                                                 
 ![36732c8aaa04a749ad872e7b21948b64](https://github.com/user-attachments/assets/324bf041-5c89-4685-9184-6a626b57ee0d)
 
@@ -11,45 +11,36 @@
 ### 🧑🏻‍💻 AboutMe
 
 
-조직이 어떠한 일을 수행함에 있어 그 기초의 초석을 다지고 지원하는 업무에 매료되어 인프라 및 클라우드 기술에 대한 관심이 많아졌습니다.<br>
-클라우드, 인프라 엔지니어를 지망하며 현재는 관련 기술을 습득하고 있습니다.
+I've become fascinated with the work that lays the foundation and supports an organization's operations, <br>
+which has sparked my interest in infrastructure and cloud technologies. <br>
+As an aspiring cloud and infrastructure engineer, I am currently acquiring the relevant skills and knowledge.
 
 
 ## 🏃 Career
 
-### 🇰🇷 대한민국 육군 2022.03 - 2024.06
+### 🇰🇷 Republic of Korea Army 2022.03 - 2024.06
 
-네트워크소대장 & 체계운용소대장<br>
+Network Platoon Leader & System Operations Officer<br>
 
-군단 인프라(네트워크 & 서버) 운용 및 관리<br>
+Worked in the IT team, where I operated and managed the network and server infrastructure for the 5corps.<br>
 
-AI/SW 시범부대 동아리 운영 및 교육장 인프라 구축<br>
+Also, I contributed to setting up and managing the infrastructure for the AI/SW facility at the Army AI/SW pilot unit. <br>
 
-<br>
-
-### 주식회사 드림비트 2021.03 - 2022.01</p>
-
-NIA 인공지능 학습용 데이터 구축 사업 참여<br>
-
-TTA 음성데이터 품질 검수를 위한 음성 정제 프로그램 개발<br>
-
-학습용 데이터 메타데이터 제작 및 구축<br>
-
-외국인 발화자 음성 전사 규칙 가이드라인 제작 및 배포<br>
 
 <br>
 
-### 세종대학교 글로벌 미디어 연구실 2020.07 - 2021.06
+### DreamBit Inc 2021.03 - 2022.01</p>
 
-SW중심대학 기초코딩 TA TA<br>
-
-공공데이터 플랫폼 구축 과제 참여 RA<br>
+I participated in a project for creating AI training data, where I worked on developing voice data refinement programs, creating metadata, and producing transcription guidelines.
 
 <br>
 
-### 세종대학교 2018.03 - 2022.02
+### Sejong University 2018.03 - 2022.02
 
-영어영문학과 & 소프트웨어공학과 우등졸업
+Major in English linguistics & Software Engineering (Cum laude)
+
+I was affiliated with the Global Media Research Lab, where I served as a teaching assistant for Python courses and participated in a public data platform development project.
+
 
 <br>
 
@@ -90,10 +81,10 @@ Certificate - 올해 취득 목표
 
 |   자격증명   | 취득일자 |
 | :----------: | :------: |
-|   AWS SAA    | 이거 올해 안에 따구.... SSAFY 그만둬야지... |
+|   AWS SAA    | Not yet... |
 | 정보처리기사 | 실기... 봐야지... |
 |     OPIC     | 따야지... 9월 중 으로 |
-|    TOEIC     |   880,,,,,, 공부해야지....|
+|    TOEIC     |   880,,,,,, 공부 해야지....|
 
 --- 
 
