@@ -29,7 +29,7 @@ Also, I contributed to setting up and managing the infrastructure for the AI/SW 
 
 <br>
 
-### DreamBit Inc 2021.03 - 2022.01</p>
+### DreamBit Inc 2021.03 - 2022.01</p>
 
 I participated in a project for creating AI training data, where I worked on developing voice data refinement programs, creating metadata, and producing transcription guidelines.
 
@@ -67,24 +67,24 @@ I was affiliated with the Global Media Research Lab, where I served as a teachin
 
 <br>
 
-|                          프로젝트명                          |   참여인원   |      기간       |     소개     |      역할       |
+|                          Projects                          |   Memebers   |      Period       |     소개     |      Role       |
 | :----------------------------------------------------------: | :----------: | :-------------: | :----------: | :-------------: |
-|         NIA 외국인 발화 한국어 데이터 구축 사업(21)          | 6개 컨소시엄 | 2021.03~2021.12 |   [링크](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=505)       | 데이터 엔지니어 |
-| 🏆 YOLOv5 모델을 이용한 군 위병소 출입관리체계 프로그램 구현 |     5명      |     2023.07     |              |    BE/INFRA     |
-|                   🏆 세종 피칭 멘토링 데이                   | 1명 |     |  |     |
+|         NIA's Project for Building Korean Language Data of Foreign Speakers.(21)          | six-institution consortium | 2021.03~2021.12 |   [링크](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=505)       | Data Engineer |
+| 🏆 Implementation of an access control system at military guard posts using the YOLOv5 model |     5 people      |     2023.07     |              |    BE/INFRA     |
+|                   🏆 Sejong-Pitching Mentoring day                   | 1명 |     |  |     |
 
 <br>
 
 ---
 
-Certificate - 올해 취득 목표
+Certificate
 
 |   자격증명   | 취득일자 |
 | :----------: | :------: |
-|   AWS SAA    | Not yet... |
-| 정보처리기사 | 실기... 봐야지... |
-|     OPIC     | 따야지... 9월 중 으로 |
-|    TOEIC     |   880,,,,,, 공부 해야지....|
+|      |   |
+|  |   |
+|          |   |
+|         |     |
 
 --- 
 
