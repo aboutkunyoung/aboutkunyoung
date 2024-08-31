@@ -69,9 +69,9 @@ I was affiliated with the Global Media Research Lab, where I served as a teachin
 
 |                          Projects                          |   Memebers   |      Period       |     소개     |      Role       |
 | :----------------------------------------------------------: | :----------: | :-------------: | :----------: | :-------------: |
-|         NIA's Project for Building Korean Language Data of Foreign Speakers.(21)          | six-institution consortium | 2021.03~2021.12 |   [링크](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=505)       | Data Engineer |
-| 🏆 Implementation of an access control system at military guard posts using the YOLOv5 model |     5 people      |     2023.07     |              |    BE/INFRA     |
-|                   🏆 Sejong-Pitching Mentoring day                   | 1명 |     |  |     |
+|         NIA's Project for Building Korean Language Data of Foreign Speakers.(21)          | Consortium | 2021.03~2021.12 |   [click]((https://github.com/aboutkunyoung/Dreambit_2021))       | Data Engineer |
+| 🏆 Implementation of an access control system at military guard posts using the YOLOv5 model |     5 people     |     2023.07     |              |    BE/INFRA     |
+|                   🏆 Sejong-Pitching Mentoring day                   | Me |     |  |  [click]([https://nistart.co.kr/news/newsview.php?ncode=1065595927744176]))     |
 
 <br>
 
