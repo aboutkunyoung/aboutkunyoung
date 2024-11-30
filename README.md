@@ -66,12 +66,12 @@ I was affiliated with the Global Media Research Lab, where I served as a teachin
 
 <br>
 
-|                          Projects                          |   Members   |      Period       |     소개     |      Role       |
-| :----------------------------------------------------------: | :----------: | :-------------: | :----------: | :-------------: |
-|         NIA's Project for Building Korean Language Data of Foreign Speakers.(21)          | Consortium | 2021.03~2021.12 |   [click](https://github.com/aboutkunyoung/Dreambit_2021)       | Data Engineer |
-| 🏆 Implementation of an access control system at military guard posts using the YOLOv5 model |     5 people     |     2023.07     |      |    BE/INFRA     |
-| 🏆 Sejong-Pitching Mentoring day | Me |  2020.02   |  [click](https://nistart.co.kr/news/newsview.php?ncode=1065595927744176) |  IDEA  |
-| LIRENT | 2 |  2024.11   |  [click]([https://nistart.co.kr/news/newsview.php?ncode=1065595927744176](https://github.com/aboutkunyoung/LIRENT)) |  FE/BE  |
+|                          Projects                            |      Period       |     소개     |      Role       |
+| :----------------------------------------------------------: |  :-------------: | :----------: | :-------------: |
+|         NIA's Project for Building Korean Language Data of Foreign Speakers.(21)          | 2021.03~2021.12 |   [click](https://github.com/aboutkunyoung/Dreambit_2021)       | Data Engineer |
+| 🏆 Implementation of an access control system at military guard posts using the YOLOv5 model |  2023.07     |      |    BE/INFRA     |
+| 🏆 Sejong-Pitching Mentoring day | 2020.02   |  [click](https://nistart.co.kr/news/newsview.php?ncode=1065595927744176) |  IDEA  |
+| LIRENT |   2024.11   |  [click](https://github.com/aboutkunyoung/LIRENT) |  FE/BE  |
 
 <br>
 
