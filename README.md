@@ -1,8 +1,6 @@
 <div align="center">
 
 ## Hi there, I'm Park.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faboutkunyoung%2Fhit-counter&count_bg=%23ADD8E6&title_bg=%23C1C1FF&icon=&icon_color=%23ADD8E6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)              
                                                 
 
 
