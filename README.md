@@ -4,7 +4,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faboutkunyoung%2Fhit-counter&count_bg=%23ADD8E6&title_bg=%23C1C1FF&icon=&icon_color=%23ADD8E6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)              
                                                 
-![36732c8aaa04a749ad872e7b21948b64](https://github.com/user-attachments/assets/324bf041-5c89-4685-9184-6a626b57ee0d)
 
 
 
